@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+/kaggle/input/
+/kaggle/temp/
+*.log
+# Besar/privat? pakai LFS atau ignore sesuai kebutuhan:
+*.pt
+*.bin
+*.safetensors
